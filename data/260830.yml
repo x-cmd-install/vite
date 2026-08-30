@@ -1,0 +1,69 @@
+about:
+  description: Next generation frontend tooling. It's fast!
+  license: MIT
+  homepage: http://vite.dev
+  head: e2b597d
+  archived: false
+  latestVersion: create-vite@9.2.0
+  collectedAt: 2026-08-30T05:23:18Z
+timeline:
+  created: 2020-04-21
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-24
+popularity:
+  star: 82596
+  watcher: 558
+  fork: 8686
+  release: 715
+  contributor: 1312
+  pullRequest: 2363
+  issue: 8809
+language:
+  TypeScript: 2698733
+  JavaScript: 300720
+  HTML: 142652
+  CSS: 82458
+  Vue: 6450
+  Svelte: 5659
+  SCSS: 3187
+  Less: 1699
+  Stylus: 531
+  Shell: 363
+  SugarSS: 274
+  Pug: 165
+  Sass: 140
+  Astro: 114
+totalLine: 3243145
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 4
+    mergedPR: 91
+    openPR: 60
+    closedIssue: 25
+    openIssue: 30
+    commit: 122
+  last90d:
+    since: 2026-06-01
+    release: 26
+    mergedPR: 318
+    openPR: 120
+    closedIssue: 115
+    openIssue: 61
+    commit: 367
+  last180d:
+    since: 2026-03-03
+    release: 57
+    mergedPR: 590
+    openPR: 166
+    closedIssue: 343
+    openIssue: 103
+    commit: 654
+  last360d:
+    since: 2025-09-04
+    release: 100
+    mergedPR: 1034
+    openPR: 196
+    closedIssue: 563
+    openIssue: 139
+    commit: 1223
