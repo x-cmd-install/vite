@@ -7,13 +7,13 @@ about:
   head: 8492422
   archived: false
   latestVersion: v8.3.0-beta.0
-  collectedAt: 2026-09-04T19:34:47Z
+  collectedAt: 2026-09-04T20:57:00Z
 timeline:
   created: 2020-04-21
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 82681
+  star: 82682
   watcher: 561
   fork: 8703
   release: 716
@@ -93,6 +93,114 @@ total:
   openIssue: 497
   commit: 9660
 ---
+path: /home/runner/.x-repo/github.com/vitejs/vite
+collectedAt: 2026-09-04T20:57:04Z
+loc:
+  TypeScript:
+    code: 75821
+    comments: 7973
+    blanks: 7886
+    files: 568
+  Yaml:
+    code: 11528
+    comments: 12
+    blanks: 3110
+    files: 4
+  JavaScript:
+    code: 9809
+    comments: 593
+    blanks: 1160
+    files: 975
+  Css:
+    code: 4497
+    comments: 20
+    blanks: 587
+    files: 204
+  Json:
+    code: 4463
+    comments: 0
+    blanks: 30
+    files: 391
+  Html:
+    code: 2921
+    comments: 16
+    blanks: 459
+    files: 156
+  Svg:
+    code: 1436
+    comments: 10
+    blanks: 11
+    files: 113
+  Tsx:
+    code: 489
+    comments: 1
+    blanks: 41
+    files: 17
+  Jsx:
+    code: 462
+    comments: 1
+    blanks: 31
+    files: 9
+  Svelte:
+    code: 170
+    comments: 0
+    blanks: 10
+    files: 4
+  Sass:
+    code: 139
+    comments: 2
+    blanks: 13
+    files: 32
+  Less:
+    code: 58
+    comments: 7
+    blanks: 10
+    files: 11
+  Stylus:
+    code: 24
+    comments: 5
+    blanks: 6
+    files: 6
+  Vue:
+    code: 24
+    comments: 7
+    blanks: 7
+    files: 6
+  PostCss:
+    code: 14
+    comments: 0
+    blanks: 3
+    files: 4
+  Sh:
+    code: 9
+    comments: 1
+    blanks: 0
+    files: 1
+  Pug:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 7
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14273
+    blanks: 5727
+    files: 80
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 9
+total:
+  code: 113787
+  comments: 23057
+  blanks: 19282
+  files: 2592
 ---
 date: "2026-08-24"
 repo:
