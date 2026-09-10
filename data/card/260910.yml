@@ -2,25 +2,25 @@ about:
   description: "Next generation frontend tooling. It's fast!"
   license: MIT
   homepage: http://vite.dev
-  head: 9913672
+  head: 99bd9d1
   archived: false
-  latestVersion: "v8.3.0-beta.1"
-  latestRelease: "create-vite@9.2.0"
+  latestVersion: "create-vite@9.2.1"
+  latestRelease: "create-vite@9.2.1"
   latestPrerelease: "v8.3.0-beta.1"
-  collectedAt: 2026-09-10T05:44:51Z
+  collectedAt: 2026-09-10T17:50:36Z
 timeline:
   created: 2020-04-21
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-07
-  lastRelease: 2026-08-24
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 2026-09-07
 popularity:
-  star: 82773
-  watcher: 552
-  fork: 8732
-  release: 717
+  star: 82779
+  watcher: 551
+  fork: 8733
+  release: 719
   contributor: 1315
-  pullRequest: 9061
+  pullRequest: 9067
   issue: 8817
 language:
   TypeScript: 2727424
@@ -41,62 +41,62 @@ totalBytes: 3276047
 recent:
   last30d:
     since: 2026-08-11
-    release: 4
-    mergedPR: 80
-    openPR: 39
+    release: 6
+    mergedPR: 83
+    openPR: 41
     closedIssue: 14
     openIssue: 17
-    commit: 107
+    commit: 110
   last60d:
     since: 2026-07-12
-    release: 12
-    mergedPR: 206
-    openPR: 79
+    release: 14
+    mergedPR: 209
+    openPR: 81
     closedIssue: 64
     openIssue: 45
-    commit: 225
+    commit: 228
   last90d:
     since: 2026-06-12
-    release: 24
-    mergedPR: 322
-    openPR: 97
+    release: 26
+    mergedPR: 325
+    openPR: 99
     closedIssue: 105
     openIssue: 55
-    commit: 346
+    commit: 349
   last180d:
     since: 2026-03-14
-    release: 52
-    mergedPR: 572
-    openPR: 151
+    release: 54
+    mergedPR: 575
+    openPR: 153
     closedIssue: 325
     openIssue: 99
-    commit: 615
+    commit: 618
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 1047
-    openPR: 186
+    mergedPR: 1050
+    openPR: 188
     closedIssue: 555
     openIssue: 134
-    commit: 1222
+    commit: 1225
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 2084
-    openPR: 219
+    mergedPR: 2087
+    openPR: 221
     closedIssue: 1242
     openIssue: 243
-    commit: 2684
+    commit: 2687
 total:
-  release: 717
-  mergedPR: 6687
-  openPR: 258
-  closedIssue: 8320
-  openIssue: 497
-  commit: 9674
+  release: 719
+  mergedPR: 6690
+  openPR: 260
+  closedIssue: 8322
+  openIssue: 495
+  commit: 9677
 ---
 path: /home/runner/.x-repo/github.com/vitejs/vite
-collectedAt: 2026-09-10T05:45:06Z
+collectedAt: 2026-09-10T17:50:55Z
 loc:
   TypeScript:
     code: 76087
@@ -190,8 +190,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 14334
-    blanks: 5745
+    comments: 14344
+    blanks: 5748
     files: 80
   Text:
     code: 0
@@ -200,8 +200,8 @@ loc:
     files: 9
 total:
   code: 114301
-  comments: 23112
-  blanks: 19362
+  comments: 23122
+  blanks: 19365
   files: 2593
 ---
 date: "2026-09-07"
