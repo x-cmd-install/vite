@@ -7,7 +7,7 @@ about:
   latestVersion: "create-vite@9.2.1"
   latestRelease: "create-vite@9.2.1"
   latestPrerelease: "v8.3.0-beta.1"
-  collectedAt: 2026-09-10T17:50:36Z
+  collectedAt: 2026-09-10T23:53:04Z
 timeline:
   created: 2020-04-21
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-09-07
 popularity:
-  star: 82779
+  star: 82780
   watcher: 551
-  fork: 8733
+  fork: 8734
   release: 719
   contributor: 1315
-  pullRequest: 9067
+  pullRequest: 9068
   issue: 8817
 language:
   TypeScript: 2727424
@@ -96,7 +96,7 @@ total:
   commit: 9677
 ---
 path: /home/runner/.x-repo/github.com/vitejs/vite
-collectedAt: 2026-09-10T17:50:55Z
+collectedAt: 2026-09-10T23:53:17Z
 loc:
   TypeScript:
     code: 76087
