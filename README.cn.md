@@ -4,7 +4,7 @@
 
 Next generation frontend tooling. It's fast!
 
-![vite](https://repo.x-cmd.io/vite.svg)
+![vite](https://repo.x-cmd.io/vite.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ Next generation frontend tooling. It's fast!
 x install vite
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/vitejs/vite>
-- **官网**: <http://vite.dev>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v8.3.0-beta.1` (2026-08-24)
-- **最近提交**: 2026-09-10
-- **发布时间**: 2026-08-24T04:58:55Z
-
-## 流行度
-
-- **Star**: 82,773 · **Fork**: 8,732 · **开放 issue**: 8,817 · **贡献者**: 1,315
-
-## 累计统计
-
-- **发布数**: 717 · **已合并 PR**: 6687 · **开放 PR**: 258 · **已关闭 issue**: 8320 · **开放 issue**: 497 · **提交数**: 9674
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 80 | 39 | 14 | 17 | 107 |
-| 90d | 2026-06-12 | 24 | 322 | 97 | 105 | 55 | 346 |
-| 360d | 2025-09-15 | 100 | 1047 | 186 | 555 | 134 | 1222 |
-
-## 代码规模
+## 代码洞察
 
 合计: **112,393** 行代码（覆盖前 5 种语言、共 **2143** 个文件）。
 
@@ -62,6 +34,36 @@ x install vite
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (1/10) — binaries present in source code
 
+## 源代码
+
+- **上游仓库**: <https://github.com/vitejs/vite>
+- **官网**: <http://vite.dev>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `create-vite@9.2.1` (2026-09-10)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 82,780 · **Fork**: 8,734 · **开放 issue**: 8,817 · **贡献者**: 1,315
+
+## 累计统计
+
+- **发布数**: 719 · **已合并 PR**: 6690 · **开放 PR**: 260 · **已关闭 issue**: 8322 · **开放 issue**: 495 · **提交数**: 9677
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 6 | 83 | 41 | 14 | 17 | 110 |
+| last60d | 2026-07-12 | 14 | 209 | 81 | 64 | 45 | 228 |
+| 90d | 2026-06-12 | 26 | 325 | 99 | 105 | 55 | 349 |
+| last180d | 2026-03-14 | 54 | 575 | 153 | 325 | 99 | 618 |
+| 360d | 2025-09-15 | 100 | 1050 | 188 | 555 | 134 | 1225 |
+| last720d | 2024-09-20 | 100 | 2087 | 221 | 1242 | 243 | 2687 |
+
 ## 改进这些数据
 
 vite 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vite` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +73,4 @@ vite 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:45:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:53:26Z._
