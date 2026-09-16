@@ -26,7 +26,7 @@ Total: **112,436** lines of code across **2143** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7 / 10**
+Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 82,827 · **Forks**: 8,742 · **Open issues**: 8,825 · **Contributors**: 1,315
+- **Stars**: 82,847 · **Forks**: 8,744 · **Open issues**: 8,826 · **Contributors**: 1,315
 
 ## Totals (cumulative)
 
-- **Releases**: 719 · **Merged PRs**: 6691 · **Open PRs**: 267 · **Closed issues**: 8325 · **Open issues**: 500 · **Commits**: 9678
+- **Releases**: 719 · **Merged PRs**: 6691 · **Open PRs**: 273 · **Closed issues**: 8324 · **Open issues**: 502 · **Commits**: 9678
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 6 | 71 | 36 | 14 | 21 | 83 |
-| last60d | 2026-07-17 | 12 | 189 | 81 | 55 | 46 | 200 |
-| 90d | 2026-06-17 | 24 | 314 | 104 | 102 | 60 | 329 |
-| last180d | 2026-03-19 | 54 | 551 | 159 | 296 | 97 | 587 |
-| 360d | 2025-09-20 | 100 | 1036 | 195 | 550 | 136 | 1182 |
-| last720d | 2024-09-25 | 100 | 2074 | 228 | 1234 | 248 | 2682 |
+| 30d | 2026-08-17 | 6 | 68 | 41 | 12 | 23 | 83 |
+| last60d | 2026-07-18 | 12 | 186 | 87 | 52 | 48 | 200 |
+| 90d | 2026-06-18 | 24 | 311 | 110 | 100 | 62 | 329 |
+| last180d | 2026-03-20 | 52 | 550 | 165 | 292 | 98 | 587 |
+| 360d | 2025-09-21 | 100 | 1036 | 201 | 549 | 138 | 1182 |
+| last720d | 2024-09-26 | 100 | 2071 | 233 | 1233 | 250 | 2678 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for vite lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:16:49Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:11:28Z._
