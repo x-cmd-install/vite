@@ -4,7 +4,7 @@
 
 Next generation frontend tooling. It's fast!
 
-![vite](https://repo.x-cmd.io/vite.svg)
+[![x-cmd/install — vite Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vite.svg)](https://x-cmd.com/install/vite)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 82,868 · **Forks**: 8,744 · **Open issues**: 8,831 · **Contributors**: 1,315
+- **Stars**: 82,905 · **Forks**: 8,759 · **Open issues**: 8,836 · **Contributors**: 1,316
 
 ## Totals (cumulative)
 
-- **Releases**: 719 · **Merged PRs**: 6696 · **Open PRs**: 274 · **Closed issues**: 8325 · **Open issues**: 506 · **Commits**: 9683
+- **Releases**: 719 · **Merged PRs**: 6700 · **Open PRs**: 278 · **Closed issues**: 8327 · **Open issues**: 509 · **Commits**: 9684
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 63 | 40 | 12 | 25 | 88 |
-| last60d | 2026-07-20 | 12 | 185 | 87 | 52 | 50 | 205 |
-| 90d | 2026-06-20 | 24 | 307 | 109 | 99 | 61 | 334 |
-| last180d | 2026-03-22 | 52 | 555 | 164 | 290 | 101 | 592 |
-| 360d | 2025-09-23 | 100 | 1033 | 202 | 540 | 141 | 1187 |
-| last720d | 2024-09-28 | 100 | 2067 | 234 | 1228 | 252 | 2670 |
+| 30d | 2026-08-21 | 5 | 58 | 43 | 13 | 26 | 89 |
+| last60d | 2026-07-22 | 12 | 172 | 89 | 47 | 53 | 206 |
+| 90d | 2026-06-22 | 24 | 302 | 113 | 98 | 64 | 335 |
+| last180d | 2026-03-24 | 51 | 545 | 167 | 279 | 103 | 593 |
+| 360d | 2025-09-25 | 100 | 1031 | 206 | 537 | 143 | 1188 |
+| last720d | 2024-09-30 | 100 | 2059 | 238 | 1226 | 254 | 2670 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for vite lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:02:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:54:30Z._
