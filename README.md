@@ -4,7 +4,7 @@
 
 Next generation frontend tooling. It's fast!
 
-[![x-cmd/install — vite Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vite.svg)](https://x-cmd.com/install/vite)
+[![x-cmd/install — vite Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vite.svg)](https://x-cmd.com/install/vite)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 82,940 · **Forks**: 8,766 · **Open issues**: 8,840 · **Contributors**: 1,318
+- **Stars**: 82,955 · **Forks**: 8,772 · **Open issues**: 8,841 · **Contributors**: 1,318
 
 ## Totals (cumulative)
 
-- **Releases**: 719 · **Merged PRs**: 6705 · **Open PRs**: 278 · **Closed issues**: 8331 · **Open issues**: 509 · **Commits**: 9689
+- **Releases**: 719 · **Merged PRs**: 6705 · **Open PRs**: 285 · **Closed issues**: 8331 · **Open issues**: 510 · **Commits**: 9689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 57 | 43 | 16 | 26 | 48 |
-| last60d | 2026-07-24 | 10 | 165 | 83 | 48 | 49 | 175 |
-| 90d | 2026-06-24 | 21 | 298 | 113 | 93 | 64 | 315 |
-| last180d | 2026-03-26 | 51 | 536 | 166 | 274 | 103 | 576 |
-| 360d | 2025-09-27 | 100 | 1035 | 206 | 538 | 143 | 1179 |
-| last720d | 2024-10-02 | 100 | 2054 | 238 | 1226 | 254 | 2667 |
+| 30d | 2026-08-24 | 5 | 48 | 48 | 14 | 26 | 48 |
+| last60d | 2026-07-25 | 10 | 161 | 90 | 47 | 50 | 175 |
+| 90d | 2026-06-25 | 21 | 293 | 118 | 92 | 65 | 315 |
+| last180d | 2026-03-27 | 49 | 536 | 173 | 269 | 104 | 576 |
+| 360d | 2025-09-28 | 100 | 1035 | 213 | 535 | 143 | 1179 |
+| last720d | 2024-10-03 | 100 | 2048 | 245 | 1222 | 255 | 2662 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for vite lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:01:11Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:02:56Z._

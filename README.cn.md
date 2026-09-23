@@ -4,7 +4,7 @@
 
 Next generation frontend tooling. It's fast!
 
-[![x-cmd/install — vite Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vite.svg?lang=zh)](https://x-cmd.com/install/vite)
+[![x-cmd/install — vite Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vite.svg?lang=zh)](https://x-cmd.com/install/vite)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install vite
 
 ## 流行度
 
-- **Star**: 82,940 · **Fork**: 8,766 · **开放 issue**: 8,840 · **贡献者**: 1,318
+- **Star**: 82,955 · **Fork**: 8,772 · **开放 issue**: 8,841 · **贡献者**: 1,318
 
 ## 累计统计
 
-- **发布数**: 719 · **已合并 PR**: 6705 · **开放 PR**: 278 · **已关闭 issue**: 8331 · **开放 issue**: 509 · **提交数**: 9689
+- **发布数**: 719 · **已合并 PR**: 6705 · **开放 PR**: 285 · **已关闭 issue**: 8331 · **开放 issue**: 510 · **提交数**: 9689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 57 | 43 | 16 | 26 | 48 |
-| last60d | 2026-07-24 | 10 | 165 | 83 | 48 | 49 | 175 |
-| 90d | 2026-06-24 | 21 | 298 | 113 | 93 | 64 | 315 |
-| last180d | 2026-03-26 | 51 | 536 | 166 | 274 | 103 | 576 |
-| 360d | 2025-09-27 | 100 | 1035 | 206 | 538 | 143 | 1179 |
-| last720d | 2024-10-02 | 100 | 2054 | 238 | 1226 | 254 | 2667 |
+| 30d | 2026-08-24 | 5 | 48 | 48 | 14 | 26 | 48 |
+| last60d | 2026-07-25 | 10 | 161 | 90 | 47 | 50 | 175 |
+| 90d | 2026-06-25 | 21 | 293 | 118 | 92 | 65 | 315 |
+| last180d | 2026-03-27 | 49 | 536 | 173 | 269 | 104 | 576 |
+| 360d | 2025-09-28 | 100 | 1035 | 213 | 535 | 143 | 1179 |
+| last720d | 2024-10-03 | 100 | 2048 | 245 | 1222 | 255 | 2662 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ vite 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:01:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:02:56Z._
