@@ -14,11 +14,11 @@ x install vite
 
 ## Code insight
 
-Total: **113,380** lines of code across **2151** files in the top 5 languages.
+Total: **113,424** lines of code across **2151** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 76,972 | 8,049 | 8,017 | 572 |
+| TypeScript | 77,016 | 8,049 | 8,020 | 572 |
 | Yaml | 11,811 | 12 | 3,133 | 4 |
 | JavaScript | 9,837 | 600 | 1,162 | 978 |
 | Css | 4,497 | 20 | 587 | 204 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v8.3.1` (2026-09-24)
+- **Latest**: `v8.3.2` (2026-10-01)
 - **Last commit**: 2026-10-01
 
 ## Popularity
 
-- **Stars**: 83,085 · **Forks**: 8,803 · **Open issues**: 8,847 · **Contributors**: 1,331
+- **Stars**: 83,101 · **Forks**: 8,810 · **Open issues**: 8,851 · **Contributors**: 1,333
 
 ## Totals (cumulative)
 
-- **Releases**: 720 · **Merged PRs**: 6746 · **Open PRs**: 264 · **Closed issues**: 8351 · **Open issues**: 496 · **Commits**: 9730
+- **Releases**: 721 · **Merged PRs**: 6750 · **Open PRs**: 263 · **Closed issues**: 8351 · **Open issues**: 500 · **Commits**: 9734
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 5 | 62 | 42 | 25 | 12 | 74 |
-| last60d | 2026-08-02 | 9 | 172 | 73 | 57 | 33 | 191 |
-| 90d | 2026-07-03 | 17 | 287 | 106 | 97 | 52 | 314 |
-| last180d | 2026-04-04 | 50 | 556 | 157 | 275 | 82 | 596 |
-| 360d | 2025-10-06 | 100 | 1055 | 193 | 542 | 129 | 1191 |
-| last720d | 2024-10-11 | 100 | 2055 | 225 | 1230 | 239 | 2667 |
+| 30d | 2026-09-02 | 6 | 65 | 39 | 25 | 16 | 78 |
+| last60d | 2026-08-03 | 10 | 168 | 73 | 52 | 37 | 195 |
+| 90d | 2026-07-04 | 18 | 291 | 106 | 97 | 56 | 318 |
+| last180d | 2026-04-05 | 51 | 559 | 157 | 274 | 86 | 600 |
+| 360d | 2025-10-07 | 100 | 1057 | 192 | 542 | 133 | 1195 |
+| last720d | 2024-10-12 | 100 | 2057 | 224 | 1230 | 243 | 2670 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for vite lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:47:27Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:23:53Z._
