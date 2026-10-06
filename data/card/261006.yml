@@ -310,4 +310,3 @@ checks:
     details:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
-{"id":404359241,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOD1jqbs4YGghJ","tag_name":"v6.4.4","target_commitish":"main","name":"v6.4.4","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-06T05:45:04Z","updated_at":"2026-10-06T05:45:15Z","published_at":"2026-10-06T05:45:15Z","assets":[],"body":"Please refer to [CHANGELOG.md](https://github.com/vitejs/vite/blob/v6.4.4/packages/vite/CHANGELOG.md) for details.","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
