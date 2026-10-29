@@ -43,14 +43,14 @@
   "body": "### Bug Fixes\n\n* **create-vite:** include template files in package ([#23915](https://github.com/vitejs/vite/issues/23915)) ([f4abfb5](https://github.com/vitejs/vite/commit/f4abfb51b03b04b16b6322eec1b401dedee56748))\n",
   "reactions": {
     "url": "https://api.github.com/repos/vitejs/vite/releases/425247580/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
     "heart": 0,
-    "rocket": 0,
+    "rocket": 1,
     "eyes": 0
   }
 }
