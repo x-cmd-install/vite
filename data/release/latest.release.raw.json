@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/vitejs/vite/releases/425247580",
-  "assets_url": "https://api.github.com/repos/vitejs/vite/releases/425247580/assets",
-  "upload_url": "https://uploads.github.com/repos/vitejs/vite/releases/425247580/assets{?name,label}",
-  "html_url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.3",
-  "id": 425247580,
+  "url": "https://api.github.com/repos/vitejs/vite/releases/434836036",
+  "assets_url": "https://api.github.com/repos/vitejs/vite/releases/434836036/assets",
+  "upload_url": "https://uploads.github.com/repos/vitejs/vite/releases/434836036/assets{?name,label}",
+  "html_url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.4",
+  "id": 434836036,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOD1jqbs4ZWMNc",
-  "tag_name": "create-vite@9.3.3",
-  "target_commitish": "cce559ab158cc6b177d0911a0bea73436b48faff",
-  "name": "create-vite@9.3.3",
+  "node_id": "RE_kwDOD1jqbs4Z6xJE",
+  "tag_name": "create-vite@9.3.4",
+  "target_commitish": "47321be084bda7f3d777e096b68bc1ddeb45aed4",
+  "name": "create-vite@9.3.4",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-27T09:23:36Z",
-  "updated_at": "2026-10-27T09:27:16Z",
-  "published_at": "2026-10-27T09:27:16Z",
+  "created_at": "2026-11-05T05:56:43Z",
+  "updated_at": "2026-11-05T06:02:20Z",
+  "published_at": "2026-11-05T06:02:20Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/vitejs/vite/tarball/create-vite@9.3.3",
-  "zipball_url": "https://api.github.com/repos/vitejs/vite/zipball/create-vite@9.3.3",
-  "body": "### Bug Fixes\n\n* **create-vite:** include template files in package ([#23915](https://github.com/vitejs/vite/issues/23915)) ([f4abfb5](https://github.com/vitejs/vite/commit/f4abfb51b03b04b16b6322eec1b401dedee56748))\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/vitejs/vite/releases/425247580/reactions",
-    "total_count": 4,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 1,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 2,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/vitejs/vite/tarball/create-vite@9.3.4",
+  "zipball_url": "https://api.github.com/repos/vitejs/vite/zipball/create-vite@9.3.4",
+  "body": "### Bug Fixes\n\n* **create-vite:** keep TypeScript 6 when using ESLint ([#23931](https://github.com/vitejs/vite/issues/23931)) ([28e1710](https://github.com/vitejs/vite/commit/28e1710790ac5ef65ed5e84cbb20438bc3218f01))\n* **deps:** update all non-major dependencies ([#23966](https://github.com/vitejs/vite/issues/23966)) ([b3cb057](https://github.com/vitejs/vite/commit/b3cb0575aff63004a71301a1ec798aeea2aa05d7))\n* **deps:** update rolldown-related dependencies ([#23967](https://github.com/vitejs/vite/issues/23967)) ([0105733](https://github.com/vitejs/vite/commit/0105733e610dd5b770bb5397e8d9fbc54a9f6312))\n"
 }
