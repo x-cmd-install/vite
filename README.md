@@ -14,11 +14,11 @@ x install vite
 
 ## Code insight
 
-Total: **122,179** lines of code across **2292** files in the top 5 languages.
+Total: **122,212** lines of code across **2292** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 85,708 | 8,426 | 8,569 | 608 |
+| TypeScript | 85,741 | 8,426 | 8,571 | 608 |
 | Yaml | 11,175 | 14 | 2,987 | 4 |
 | JavaScript | 10,134 | 641 | 1,243 | 1057 |
 | Json | 4,668 | 0 | 30 | 413 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,994 · **Forks**: 10,433 · **Open issues**: 8,951 · **Contributors**: 1,358
+- **Stars**: 84,008 · **Forks**: 9,230 · **Open issues**: 8,952 · **Contributors**: 1,358
 
 ## Totals (cumulative)
 
-- **Releases**: 744 · **Merged PRs**: 6973 · **Open PRs**: 307 · **Closed issues**: 8442 · **Open issues**: 509 · **Commits**: 9950
+- **Releases**: 744 · **Merged PRs**: 6974 · **Open PRs**: 306 · **Closed issues**: 8444 · **Open issues**: 508 · **Commits**: 9951
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 15 | 105 | 70 | 30 | 32 | 124 |
-| last60d | 2026-09-21 | 25 | 240 | 116 | 61 | 55 | 261 |
-| 90d | 2026-08-22 | 30 | 315 | 132 | 94 | 62 | 326 |
-| last180d | 2026-05-24 | 55 | 655 | 194 | 240 | 95 | 680 |
-| 360d | 2025-11-25 | 100 | 1172 | 239 | 561 | 145 | 1236 |
-| last720d | 2024-11-30 | 100 | 2043 | 262 | 1212 | 244 | 2619 |
+| 30d | 2026-10-22 | 13 | 97 | 68 | 32 | 31 | 0 |
+| last60d | 2026-09-22 | 25 | 239 | 111 | 62 | 53 | 0 |
+| 90d | 2026-08-23 | 30 | 313 | 131 | 96 | 61 | 0 |
+| last180d | 2026-05-25 | 55 | 652 | 192 | 238 | 94 | 0 |
+| 360d | 2025-11-26 | 100 | 1172 | 237 | 562 | 144 | 0 |
+| last720d | 2024-12-01 | 100 | 2042 | 261 | 1213 | 243 | 2620 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for vite lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:10:58Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:12:45Z._
