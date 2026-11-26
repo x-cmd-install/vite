@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 84,086 · **Forks**: 9,240 · **Open issues**: 8,955 · **Contributors**: 1,360
+- **Stars**: 84,115 · **Forks**: 9,265 · **Open issues**: 8,957 · **Contributors**: 1,360
 
 ## Totals (cumulative)
 
-- **Releases**: 745 · **Merged PRs**: 6989 · **Open PRs**: 315 · **Closed issues**: 8445 · **Open issues**: 510 · **Commits**: 9966
+- **Releases**: 745 · **Merged PRs**: 6989 · **Open PRs**: 318 · **Closed issues**: 8447 · **Open issues**: 510 · **Commits**: 9966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 14 | 102 | 72 | 28 | 30 | 120 |
-| last60d | 2026-09-26 | 25 | 237 | 117 | 57 | 54 | 247 |
-| 90d | 2026-08-27 | 30 | 304 | 137 | 90 | 61 | 324 |
-| last180d | 2026-05-29 | 56 | 660 | 199 | 233 | 95 | 680 |
-| 360d | 2025-11-30 | 100 | 1182 | 246 | 560 | 146 | 1215 |
-| last720d | 2024-12-05 | 100 | 2034 | 270 | 1204 | 244 | 2618 |
+| 30d | 2026-10-27 | 14 | 95 | 73 | 26 | 31 | 0 |
+| last60d | 2026-09-27 | 25 | 235 | 116 | 57 | 56 | 0 |
+| 90d | 2026-08-28 | 30 | 303 | 140 | 89 | 62 | 0 |
+| last180d | 2026-05-30 | 56 | 659 | 201 | 233 | 97 | 0 |
+| 360d | 2025-12-01 | 100 | 1175 | 249 | 560 | 147 | 0 |
+| last720d | 2024-12-06 | 100 | 2028 | 273 | 1203 | 245 | 2610 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for vite lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:17:57Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:49:06Z._
