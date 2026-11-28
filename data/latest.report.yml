@@ -7,7 +7,7 @@ about:
   latestVersion: "create-vite@9.4.0"
   latestRelease: "create-vite@9.4.0"
   latestPrerelease: "v8.4.0-beta.2"
-  collectedAt: 2026-11-27T09:04:00Z
+  collectedAt: 2026-11-28T08:58:17Z
 timeline:
   created: 2020-04-21
   lastCommit: 2026-11-27
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-11-26
   lastPrerelease: 2026-11-25
 popularity:
-  star: 84135
-  watcher: 550
-  fork: 9326
+  star: 84157
+  watcher: 558
+  fork: 9416
   release: 747
   contributor: 1360
-  pullRequest: 9635
-  issue: 8957
+  pullRequest: 9643
+  issue: 8959
 language:
   TypeScript: 3084380
   JavaScript: 315448
@@ -40,63 +40,63 @@ language:
 totalBytes: 3655898
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 14
-    mergedPR: 101
+    mergedPR: 98
     openPR: 75
-    closedIssue: 24
-    openIssue: 29
-    commit: 0
+    closedIssue: 22
+    openIssue: 26
+    commit: 127
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 27
-    mergedPR: 236
-    openPR: 121
+    mergedPR: 234
+    openPR: 125
     closedIssue: 58
-    openIssue: 55
-    commit: 0
+    openIssue: 56
+    commit: 254
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 32
     mergedPR: 309
-    openPR: 145
+    openPR: 149
     closedIssue: 90
-    openIssue: 61
-    commit: 0
+    openIssue: 63
+    commit: 331
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 58
-    mergedPR: 662
-    openPR: 204
-    closedIssue: 233
-    openIssue: 96
-    commit: 0
+    mergedPR: 653
+    openPR: 208
+    closedIssue: 230
+    openIssue: 98
+    commit: 687
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 1179
-    openPR: 253
+    mergedPR: 1168
+    openPR: 257
     closedIssue: 560
-    openIssue: 146
-    commit: 0
+    openIssue: 148
+    commit: 1222
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 2034
-    openPR: 277
-    closedIssue: 1200
-    openIssue: 243
-    commit: 2613
+    openPR: 281
+    closedIssue: 1199
+    openIssue: 244
+    commit: 2612
 total:
   release: 747
   mergedPR: 6996
-  openPR: 322
+  openPR: 326
   closedIssue: 8450
-  openIssue: 507
+  openIssue: 509
   commit: 9973
 ---
 path: /home/runner/.x-repo/github.com/vitejs/vite
-collectedAt: 2026-11-27T09:04:11Z
+collectedAt: 2026-11-28T08:58:33Z
 loc:
   TypeScript:
     code: 85950
